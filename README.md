@@ -1,4 +1,7 @@
 # Customer_Churn_Analysis
+
+![hhhhh (1)](https://github.com/Priyaanush/Customer_Churn_Analysis/assets/114584480/2258ffe7-18fa-4178-aa5c-37ecc177a45c)
+
 # Description
 
 Customer churn is a major problem and one of the most important concerns for large companies. Due to the direct effect on the revenues of the companies , especially in the telecom field, companies are seeking to develop means to predict potential customer to churn. Therefore, finding factors that increase customer churn is important to take necessary actions to reduce this churn. The main contribution of our work is to develop a churn prediction model which assists telecom operators to predict customers who are most likely subject to churn. The goal of this project is to provide a new approach to identifying potential churners so marketing retention strategies be developed accordingly. The past dataset is collected and that dataset is used to build a machine learning model. The necessary pre-processing techniques are applied like univariate analysis and bivariate
@@ -11,4 +14,3 @@ Finding the % of Churn Customers and customers that keep in with the active serv
 Analyzing the data in terms of various features responsible for customer Churn
 
 Finding a most suited machine learning model for correct classification of Churn and non churn customers.
-
